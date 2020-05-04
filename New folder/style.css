@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.navbar-logo{
+    float: left;
+}
+.navbar-items{
+    float: right;
+    list-style: none;
+    
+}
+.navbar-items li {
+    display: inline-block;
+  
+
+}
+.navbar-items li a {
+    text-decoration: none;
+}
